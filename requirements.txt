@@ -162,7 +162,7 @@ pystan==2.18.0.0
 python-dateutil==2.7.5
 PyTweening==1.0.3
 pytz==2018.7
-PyYAML==3.13
+PyYAML==5.4
 pyzmail36==1.0.3
 query-string==2018.11.20
 request==2018.11.20
