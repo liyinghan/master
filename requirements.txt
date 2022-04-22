@@ -154,7 +154,7 @@ pyobjc-framework-VideoToolbox==5.1.2
 pyobjc-framework-Vision==5.1.2
 pyobjc-framework-WebKit==5.1.2
 pyparsing==2.3.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pyperclip==1.7.0
 PyScreeze==0.1.18
 PySocks==1.5.7
